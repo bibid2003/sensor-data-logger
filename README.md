@@ -11,12 +11,11 @@ A simple Python project to simulate temperature sensor data logging and visualiz
  Project Structure
 
 sensor-data-logger/
-│
-├── data/
-│ └── sensor_data.csv  Logged temperature data
-├── logger.py Script to simulate and log temperature data
-├── plotter.py Script to read CSV and plot the data
-└── README.md  Project documentation
+data/
+  sensor_data.csv  Logged temperature data
+logger.py Script to simulate and log temperature data
+plotter.py Script to read CSV and plot the data
+README.md  Project documentation
 
 
   How to Run
